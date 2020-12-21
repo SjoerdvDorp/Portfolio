@@ -11,7 +11,7 @@
 
   function _interopNamespace(e) {
     if (e && e.__esModule) return e;
-    var n = Object.create(null);
+    var n = Object.create(null);s
     if (e) {
       Object.keys(e).forEach(function (k) {
         if (k !== 'default') {
