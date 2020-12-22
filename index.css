@@ -1,6 +1,8 @@
-.navbar-nav > li{
-    padding-left: 30px;
-    padding-right: 30px;
+h1, h2, h3, h4, h5, h6, p, a {
+    font-family: Arvo, Georgia, Times, serif !important;
+    color: white;
 }
 
-
+body {
+    background-color:dimgrey;
+}
